@@ -1,0 +1,1 @@
+Final project for the Upskill certification. Done using Java Springboot. Using persistence w/ MySQL, mock up microservices with launch of JAR in each task created. Needs Eureka and MySQL (used xampp)
