@@ -1,1 +1,3 @@
-Final project for the Upskill certification. Done using Java Springboot. Using persistence w/ MySQL, mock up microservices with launch of JAR in each task created. Needs Eureka and MySQL (used xampp)
+Final project for the Upskill certification.
+Detects language of a document, using Apache Tika API. 
+Done using Java Springboot. Using persistence w/ MySQL, mock up microservices with launch of JAR in each task created. Needs Eureka running and MySQL (used xampp)
